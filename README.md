@@ -49,7 +49,7 @@ git clone git@github.com:rohitmadrileno15/Udhaar-Visualizer.git
 3. (Optional) You can automate library installation using <a href= "https://github.com/rohitmadrileno15/Python-autoupdate-packages"> Python Autoupdate PAckages </a> by some simple tweaks
 
 3. Open the folder in which the project is cloned into.
-```python app.py
+```py python app.py
 ```
 
 
