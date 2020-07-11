@@ -2,7 +2,7 @@
 from flask import Flask,render_template,request,g ,session
 from flask_session import Session
 app = Flask(__name__)
-import random
+
 import re
 import requests
 app.secret_key = 'dljsaklkszhfjhFSDHFuiewh4i325hjnflFNj'
