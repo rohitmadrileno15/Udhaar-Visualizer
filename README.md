@@ -57,25 +57,25 @@ git clone git@github.com:rohitmadrileno15/Udhaar-Visualizer.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* [Landing Page]
+* Landing Page
 
 ![First Page](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_7.png)
 <br/>
-* [Why and How?]
+* Why and How? 
 
 ![Modal box](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_8.png)
 
 <br/>
-* [Getting started by adding names]
+* Getting started by adding names 
 
 ![Adding names](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_9.png)
 <br/>
-* [After submitting on the previous page , put down the transactions]
+* After submitting on the previous page , put down the transactions
 
 ![Add transactions](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_10.png)
 
 <br/>
-* [Voila]
+* Voila
 
 ![Visual Graphics](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_11.png)
 
