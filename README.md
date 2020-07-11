@@ -1,14 +1,6 @@
 
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-
 
  
 <br />
@@ -16,11 +8,8 @@
 
   <h3 align="center">Udhaar Visualizer</h3>
 
-  <p align="center">
-      
-     
-A Debit visualizer implementing data structures like graphs and stacks in an interactive way.
- 
+  <p align="center">  
+    A Debit visualizer implementing data structures like graphs and stacks in an interactive way. 
   </p>
 </p>
 
@@ -71,6 +60,9 @@ git clone git@github.com:rohitmadrileno15/Udhaar-Visualizer.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+![alt text](http://url/to/img.png)
+
 
 
 
