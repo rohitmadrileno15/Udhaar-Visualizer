@@ -1,8 +1,4 @@
 
-
-
-
- 
 <br />
 <p align="center">
 
@@ -61,7 +57,15 @@ git clone git@github.com:rohitmadrileno15/Udhaar-Visualizer.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![alt text](http://url/to/img.png)
+![First Page](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_7.png)
+
+![Modal box](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_8.png)
+
+![Adding names](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_9.png)
+
+![Add transactions](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_10.png)
+
+![Visual Graphics](https://github.com/rohitmadrileno15/Udhaar-Visualizer/blob/master/images/Screenshot_11.png)
 
 
 
