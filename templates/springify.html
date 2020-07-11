@@ -1,5 +1,7 @@
 <html>
 <head>
+
+  
   <style>
 
     *{
@@ -9,8 +11,8 @@
     }
     body{
         display: flex;
-        justify-content: center; /* center horizontally */
-        align-items: center; /* center vertically */
+        justify-content: center;  
+        align-items: center;  
     }
     #springydemo{
   
@@ -31,9 +33,11 @@
 </head>
 
 <body>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script src="{{ url_for('static', filename='springy.js') }}"></script>
 <script src="{{ url_for('static', filename='springyui.js') }}"></script>
+
 <script>
 
 var randomColor  = () => {
@@ -69,7 +73,7 @@ jQuery(function(){
 </script>
 
 <canvas id="springydemo"   />
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script>
   var canvas = document.getElementById('responsive-canvas');
 var heightRatio = 1.5;
