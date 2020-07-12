@@ -6,6 +6,10 @@
 
   <p align="center">  
     A Debit visualizer implementing data structures like graphs and stacks in an interactive way. 
+  <br/>
+  
+  <a href="https://udhaari-visualizer.herokuapp.com/" style=" text-decoration : none ; color:blue;"> Click for lime demo </a>
+  
   </p>
 </p>
 
