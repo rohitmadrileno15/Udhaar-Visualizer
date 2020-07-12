@@ -5,11 +5,8 @@
   <h3 align="center">Udhaar Visualizer</h3>
 
   <p align="center">  
-    A Debit visualizer implementing data structures like graphs and stacks in an interactive way. 
+    A Debit visualizer implementing data structures like graphs and stacks in an interactive way. <a href="https://udhaari-visualizer.herokuapp.com/" style=" text-decoration : none ; color:blue;"> Click for live demo </a>
   <br/>
-  
-  <a align="center" href="https://udhaari-visualizer.herokuapp.com/" style=" text-decoration : none ; color:blue;"> Click for live demo </a>
-  
   </p>
 </p>
 
